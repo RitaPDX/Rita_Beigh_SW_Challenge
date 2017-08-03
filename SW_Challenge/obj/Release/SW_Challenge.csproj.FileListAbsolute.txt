@@ -1,0 +1,5 @@
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\bin\Release\ConsoleApplication1.exe.config
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\bin\Release\ConsoleApplication1.exe
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\bin\Release\ConsoleApplication1.pdb
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\obj\Release\ConsoleApplication1.exe
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\obj\Release\ConsoleApplication1.pdb

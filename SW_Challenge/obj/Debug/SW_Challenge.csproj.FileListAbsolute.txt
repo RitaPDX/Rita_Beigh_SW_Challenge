@@ -1,0 +1,12 @@
+c:\users\ritapdx\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\ritapdx\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\ritapdx\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\ritapdx\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\SW_Challenge.csprojResolveAssemblyReference.cache
+c:\users\ritapdx\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\ritapdx\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\bin\Debug\ConsoleApplication1.exe.config
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\bin\Debug\ConsoleApplication1.exe
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\bin\Debug\ConsoleApplication1.pdb
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\obj\Debug\SW_Challenge.csprojResolveAssemblyReference.cache
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\obj\Debug\ConsoleApplication1.exe
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\SW_Challenge\obj\Debug\ConsoleApplication1.pdb

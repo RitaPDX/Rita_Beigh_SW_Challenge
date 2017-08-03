@@ -1,0 +1,15 @@
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\bin\Debug\TestCards.exe.config
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\bin\Debug\TestCards.exe
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\bin\Debug\TestCards.pdb
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\bin\Debug\en-US\TestCards.resources.dll
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\bin\Debug\ConsoleApplication1.exe
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\bin\Debug\ConsoleApplication1.pdb
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\TestCards.csprojResolveAssemblyReference.cache
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\TestCards.Properties.Resources.resources
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\TestCards.frmTestCases.resources
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\TestCards.frmTestCases.en-US.resources
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\TestCards.csproj.GenerateResource.Cache
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\en-US\TestCards.resources.dll
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\TestCards.exe
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\TestCards.pdb
+\\Ritapdx-pc\c\Users\RitaPDX\Documents\Visual Studio 2013\Projects\SW_Challenge\TestCards\obj\Debug\TestCards.frmHlp.resources
